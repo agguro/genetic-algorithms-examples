@@ -1,0 +1,495 @@
+GENERATION 0
+chromosome 0 : (7 ; 1 ; 7 ; 7)
+chromosome 1 : (9 ; 4 ; 7 ; 4)
+chromosome 2 : (1 ; 6 ; 7 ; 1)
+chromosome 3 : (9 ; 6 ; 8 ; 3)
+chromosome 4 : (8 ; 9 ; 8 ; 10)
+chromosome 5 : (5 ; 8 ; 6 ; 5)
+chromosome 6 : (1 ; 3 ; 1 ; 7)
+chromosome 7 : (6 ; 9 ; 3 ; 4)
+chromosome 8 : (1 ; 10 ; 2 ; 2)
+chromosome 9 : (3 ; 8 ; 5 ; 6)
+chromosome 10 : (6 ; 3 ; 8 ; 4)
+chromosome 11 : (8 ; 5 ; 8 ; 5)
+chromosome 12 : (5 ; 5 ; 7 ; 1)
+chromosome 13 : (5 ; 2 ; 5 ; 5)
+chromosome 14 : (6 ; 7 ; 1 ; 4)
+chromosome 15 : (5 ; 6 ; 9 ; 6)
+chromosome 16 : (5 ; 1 ; 7 ; 7)
+chromosome 17 : (10 ; 1 ; 2 ; 7)
+chromosome 18 : (6 ; 9 ; 10 ; 3)
+chromosome 19 : (5 ; 9 ; 8 ; 1)
+chromosome 20 : (4 ; 6 ; 1 ; 8)
+chromosome 21 : (7 ; 7 ; 4 ; 5)
+chromosome 22 : (4 ; 7 ; 8 ; 8)
+chromosome 23 : (2 ; 6 ; 5 ; 6)
+chromosome 24 : (8 ; 3 ; 4 ; 8)
+chromosome 25 : (6 ; 8 ; 4 ; 1)
+chromosome 26 : (8 ; 6 ; 3 ; 5)
+chromosome 27 : (4 ; 2 ; 5 ; 9)
+chromosome 28 : (7 ; 8 ; 6 ; 6)
+chromosome 29 : (4 ; 2 ; 2 ; 7)
+chromosome 30 : (8 ; 9 ; 7 ; 9)
+chromosome 31 : (6 ; 3 ; 4 ; 4)
+chromosome 32 : (6 ; 9 ; 3 ; 3)
+chromosome 33 : (6 ; 8 ; 3 ; 6)
+chromosome 34 : (5 ; 7 ; 10 ; 9)
+chromosome 35 : (1 ; 6 ; 9 ; 9)
+chromosome 36 : (3 ; 7 ; 4 ; 7)
+chromosome 37 : (8 ; 5 ; 3 ; 5)
+chromosome 38 : (5 ; 1 ; 3 ; 3)
+chromosome 39 : (4 ; 8 ; 8 ; 9)
+chromosome 40 : (8 ; 10 ; 3 ; 6)
+chromosome 41 : (9 ; 5 ; 1 ; 4)
+chromosome 42 : (3 ; 2 ; 4 ; 3)
+chromosome 43 : (7 ; 2 ; 2 ; 10)
+chromosome 44 : (8 ; 7 ; 6 ; 7)
+-----------------------------------
+Calculation of fitness, relative probability, cumulative probability and total fitness of the population.
+chromosome 0 : (7 ; 1 ; 7 ; 7) ==> result = 58 | fitness = 0.034483 | relprob = 0.011340 | cumprob = 0.011340
+chromosome 1 : (9 ; 4 ; 7 ; 4) ==> result = 54 | fitness = 0.040000 | relprob = 0.013155 | cumprob = 0.024495
+chromosome 2 : (1 ; 6 ; 7 ; 1) ==> result = 38 | fitness = 0.111111 | relprob = 0.036541 | cumprob = 0.061036
+chromosome 3 : (9 ; 6 ; 8 ; 3) ==> result = 57 | fitness = 0.035714 | relprob = 0.011745 | cumprob = 0.072781
+chromosome 4 : (8 ; 9 ; 8 ; 10) ==> result = 90 | fitness = 0.016393 | relprob = 0.005391 | cumprob = 0.078173
+chromosome 5 : (5 ; 8 ; 6 ; 5) ==> result = 59 | fitness = 0.033333 | relprob = 0.010962 | cumprob = 0.089135
+chromosome 6 : (1 ; 3 ; 1 ; 7) ==> result = 38 | fitness = 0.111111 | relprob = 0.036541 | cumprob = 0.125676
+chromosome 7 : (6 ; 9 ; 3 ; 4) ==> result = 49 | fitness = 0.050000 | relprob = 0.016443 | cumprob = 0.142119
+chromosome 8 : (1 ; 10 ; 2 ; 2) ==> result = 35 | fitness = 0.166667 | relprob = 0.054812 | cumprob = 0.196931
+chromosome 9 : (3 ; 8 ; 5 ; 6) ==> result = 58 | fitness = 0.034483 | relprob = 0.011340 | cumprob = 0.208271
+chromosome 10 : (6 ; 3 ; 8 ; 4) ==> result = 52 | fitness = 0.043478 | relprob = 0.014299 | cumprob = 0.222570
+chromosome 11 : (8 ; 5 ; 8 ; 5) ==> result = 62 | fitness = 0.030303 | relprob = 0.009966 | cumprob = 0.232536
+chromosome 12 : (5 ; 5 ; 7 ; 1) ==> result = 40 | fitness = 0.090909 | relprob = 0.029897 | cumprob = 0.262433
+chromosome 13 : (5 ; 2 ; 5 ; 5) ==> result = 44 | fitness = 0.066667 | relprob = 0.021925 | cumprob = 0.284357
+chromosome 14 : (6 ; 7 ; 1 ; 4) ==> result = 39 | fitness = 0.100000 | relprob = 0.032887 | cumprob = 0.317244
+chromosome 15 : (5 ; 6 ; 9 ; 6) ==> result = 68 | fitness = 0.025641 | relprob = 0.008433 | cumprob = 0.325677
+chromosome 16 : (5 ; 1 ; 7 ; 7) ==> result = 56 | fitness = 0.037037 | relprob = 0.012180 | cumprob = 0.337857
+chromosome 17 : (10 ; 1 ; 2 ; 7) ==> result = 46 | fitness = 0.058824 | relprob = 0.019345 | cumprob = 0.357202
+chromosome 18 : (6 ; 9 ; 10 ; 3) ==> result = 66 | fitness = 0.027027 | relprob = 0.008888 | cumprob = 0.366091
+chromosome 19 : (5 ; 9 ; 8 ; 1) ==> result = 51 | fitness = 0.045455 | relprob = 0.014949 | cumprob = 0.381039
+chromosome 20 : (4 ; 6 ; 1 ; 8) ==> result = 51 | fitness = 0.045455 | relprob = 0.014949 | cumprob = 0.395988
+chromosome 21 : (7 ; 7 ; 4 ; 5) ==> result = 53 | fitness = 0.041667 | relprob = 0.013703 | cumprob = 0.409691
+chromosome 22 : (4 ; 7 ; 8 ; 8) ==> result = 74 | fitness = 0.022222 | relprob = 0.007308 | cumprob = 0.416999
+chromosome 23 : (2 ; 6 ; 5 ; 6) ==> result = 53 | fitness = 0.041667 | relprob = 0.013703 | cumprob = 0.430702
+chromosome 24 : (8 ; 3 ; 4 ; 8) ==> result = 58 | fitness = 0.034483 | relprob = 0.011340 | cumprob = 0.442042
+chromosome 25 : (6 ; 8 ; 4 ; 1) ==> result = 38 | fitness = 0.111111 | relprob = 0.036541 | cumprob = 0.478583
+chromosome 26 : (8 ; 6 ; 3 ; 5) ==> result = 49 | fitness = 0.050000 | relprob = 0.016443 | cumprob = 0.495027
+chromosome 27 : (4 ; 2 ; 5 ; 9) ==> result = 59 | fitness = 0.033333 | relprob = 0.010962 | cumprob = 0.505989
+chromosome 28 : (7 ; 8 ; 6 ; 6) ==> result = 65 | fitness = 0.027778 | relprob = 0.009135 | cumprob = 0.515124
+chromosome 29 : (4 ; 2 ; 2 ; 7) ==> result = 42 | fitness = 0.076923 | relprob = 0.025298 | cumprob = 0.540422
+chromosome 30 : (8 ; 9 ; 7 ; 9) ==> result = 83 | fitness = 0.018519 | relprob = 0.006090 | cumprob = 0.546512
+chromosome 31 : (6 ; 3 ; 4 ; 4) ==> result = 40 | fitness = 0.090909 | relprob = 0.029897 | cumprob = 0.576409
+chromosome 32 : (6 ; 9 ; 3 ; 3) ==> result = 45 | fitness = 0.062500 | relprob = 0.020554 | cumprob = 0.596964
+chromosome 33 : (6 ; 8 ; 3 ; 6) ==> result = 55 | fitness = 0.038462 | relprob = 0.012649 | cumprob = 0.609612
+chromosome 34 : (5 ; 7 ; 10 ; 9) ==> result = 85 | fitness = 0.017857 | relprob = 0.005873 | cumprob = 0.615485
+chromosome 35 : (1 ; 6 ; 9 ; 9) ==> result = 76 | fitness = 0.021277 | relprob = 0.006997 | cumprob = 0.622482
+chromosome 36 : (3 ; 7 ; 4 ; 7) ==> result = 57 | fitness = 0.035714 | relprob = 0.011745 | cumprob = 0.634228
+chromosome 37 : (8 ; 5 ; 3 ; 5) ==> result = 47 | fitness = 0.055556 | relprob = 0.018271 | cumprob = 0.652498
+chromosome 38 : (5 ; 1 ; 3 ; 3) ==> result = 28 | fitness = 0.333333 | relprob = 0.109623 | cumprob = 0.762121
+chromosome 39 : (4 ; 8 ; 8 ; 9) ==> result = 80 | fitness = 0.019608 | relprob = 0.006448 | cumprob = 0.768569
+chromosome 40 : (8 ; 10 ; 3 ; 6) ==> result = 61 | fitness = 0.031250 | relprob = 0.010277 | cumprob = 0.778847
+chromosome 41 : (9 ; 5 ; 1 ; 4) ==> result = 38 | fitness = 0.111111 | relprob = 0.036541 | cumprob = 0.815388
+chromosome 42 : (3 ; 2 ; 4 ; 3) ==> result = 31 | fitness = 0.500000 | relprob = 0.164435 | cumprob = 0.979822
+chromosome 43 : (7 ; 2 ; 2 ; 10) ==> result = 57 | fitness = 0.035714 | relprob = 0.011745 | cumprob = 0.991567
+chromosome 44 : (8 ; 7 ; 6 ; 7) ==> result = 68 | fitness = 0.025641 | relprob = 0.008433 | cumprob = 1.000000
+total fitnes 3.040724
+-----------------------------------
+selection
+roulettewheel = 0.082359 : chromosome 0 (cumprob: 0.011340) is replaced by 4 (cumprob: 0.078173)
+roulettewheel = 0.133021 : chromosome 1 (cumprob: 0.024495) is replaced by 6 (cumprob: 0.125676)
+roulettewheel = 0.358809 : chromosome 2 (cumprob: 0.061036) is replaced by 17 (cumprob: 0.357202)
+roulettewheel = 0.565298 : chromosome 3 (cumprob: 0.072781) is replaced by 30 (cumprob: 0.546512)
+roulettewheel = 0.337003 : chromosome 4 (cumprob: 0.078173) is replaced by 15 (cumprob: 0.325677)
+roulettewheel = 0.031170 : chromosome 5 (cumprob: 0.089135) is replaced by 1 (cumprob: 0.024495)
+roulettewheel = 0.627443 : chromosome 6 (cumprob: 0.125676) is replaced by 35 (cumprob: 0.622482)
+roulettewheel = 0.649135 : chromosome 7 (cumprob: 0.142119) is replaced by 36 (cumprob: 0.634228)
+roulettewheel = 0.666457 : chromosome 8 (cumprob: 0.196931) is replaced by 37 (cumprob: 0.652498)
+roulettewheel = 0.633947 : chromosome 9 (cumprob: 0.208271) is replaced by 35 (cumprob: 0.622482)
+roulettewheel = 0.633584 : chromosome 10 (cumprob: 0.222570) is replaced by 35 (cumprob: 0.622482)
+roulettewheel = 0.793715 : chromosome 11 (cumprob: 0.232536) is replaced by 40 (cumprob: 0.778847)
+roulettewheel = 0.462719 : chromosome 12 (cumprob: 0.262433) is replaced by 24 (cumprob: 0.442042)
+roulettewheel = 0.835721 : chromosome 13 (cumprob: 0.284357) is replaced by 41 (cumprob: 0.815388)
+roulettewheel = 0.889662 : chromosome 14 (cumprob: 0.317244) is replaced by 41 (cumprob: 0.815388)
+roulettewheel = 0.025569 : chromosome 15 (cumprob: 0.325677) is replaced by 1 (cumprob: 0.024495)
+roulettewheel = 0.809613 : chromosome 16 (cumprob: 0.337857) is replaced by 40 (cumprob: 0.778847)
+roulettewheel = 0.378986 : chromosome 17 (cumprob: 0.357202) is replaced by 18 (cumprob: 0.366091)
+roulettewheel = 0.895690 : chromosome 18 (cumprob: 0.366091) is replaced by 41 (cumprob: 0.815388)
+roulettewheel = 0.277768 : chromosome 19 (cumprob: 0.381039) is replaced by 12 (cumprob: 0.262433)
+roulettewheel = 0.421690 : chromosome 20 (cumprob: 0.395988) is replaced by 22 (cumprob: 0.416999)
+roulettewheel = 0.690935 : chromosome 21 (cumprob: 0.409691) is replaced by 37 (cumprob: 0.652498)
+roulettewheel = 0.926627 : chromosome 22 (cumprob: 0.416999) is replaced by 41 (cumprob: 0.815388)
+roulettewheel = 0.468484 : chromosome 23 (cumprob: 0.430702) is replaced by 24 (cumprob: 0.442042)
+roulettewheel = 0.593242 : chromosome 24 (cumprob: 0.442042) is replaced by 31 (cumprob: 0.576409)
+roulettewheel = 0.576410 : chromosome 25 (cumprob: 0.478583) is replaced by 31 (cumprob: 0.576409)
+roulettewheel = 0.554530 : chromosome 26 (cumprob: 0.495027) is replaced by 30 (cumprob: 0.546512)
+roulettewheel = 0.521888 : chromosome 27 (cumprob: 0.505989) is replaced by 28 (cumprob: 0.515124)
+roulettewheel = 0.929318 : chromosome 28 (cumprob: 0.515124) is replaced by 41 (cumprob: 0.815388)
+roulettewheel = 0.905239 : chromosome 29 (cumprob: 0.540422) is replaced by 41 (cumprob: 0.815388)
+roulettewheel = 0.570384 : chromosome 30 (cumprob: 0.546512) is replaced by 30 (cumprob: 0.546512)
+roulettewheel = 0.011677 : chromosome 31 (cumprob: 0.576409) is replaced by 0 (cumprob: 0.011340)
+roulettewheel = 0.038261 : chromosome 32 (cumprob: 0.596964) is replaced by 1 (cumprob: 0.024495)
+roulettewheel = 0.929193 : chromosome 33 (cumprob: 0.609612) is replaced by 41 (cumprob: 0.815388)
+roulettewheel = 0.576975 : chromosome 34 (cumprob: 0.615485) is replaced by 31 (cumprob: 0.576409)
+roulettewheel = 0.375264 : chromosome 35 (cumprob: 0.622482) is replaced by 18 (cumprob: 0.366091)
+roulettewheel = 0.960363 : chromosome 36 (cumprob: 0.634228) is replaced by 41 (cumprob: 0.815388)
+roulettewheel = 0.204418 : chromosome 37 (cumprob: 0.652498) is replaced by 8 (cumprob: 0.196931)
+roulettewheel = 0.024398 : chromosome 38 (cumprob: 0.762121) is replaced by 0 (cumprob: 0.011340)
+roulettewheel = 0.626820 : chromosome 39 (cumprob: 0.768569) is replaced by 35 (cumprob: 0.622482)
+roulettewheel = 0.838366 : chromosome 40 (cumprob: 0.778847) is replaced by 41 (cumprob: 0.815388)
+roulettewheel = 0.657982 : chromosome 41 (cumprob: 0.815388) is replaced by 37 (cumprob: 0.652498)
+roulettewheel = 0.420535 : chromosome 42 (cumprob: 0.979822) is replaced by 22 (cumprob: 0.416999)
+roulettewheel = 0.301085 : chromosome 43 (cumprob: 0.991567) is replaced by 13 (cumprob: 0.284357)
+roulettewheel = 0.493703 : chromosome 44 (cumprob: 1.000000) is replaced by 25 (cumprob: 0.478583)
+Next generation population after selection via roulettewheel.
+chromosome 0 : (8 ; 9 ; 8 ; 10)
+chromosome 1 : (1 ; 3 ; 1 ; 7)
+chromosome 2 : (10 ; 1 ; 2 ; 7)
+chromosome 3 : (8 ; 9 ; 7 ; 9)
+chromosome 4 : (5 ; 6 ; 9 ; 6)
+chromosome 5 : (9 ; 4 ; 7 ; 4)
+chromosome 6 : (1 ; 6 ; 9 ; 9)
+chromosome 7 : (3 ; 7 ; 4 ; 7)
+chromosome 8 : (8 ; 5 ; 3 ; 5)
+chromosome 9 : (1 ; 6 ; 9 ; 9)
+chromosome 10 : (1 ; 6 ; 9 ; 9)
+chromosome 11 : (8 ; 10 ; 3 ; 6)
+chromosome 12 : (8 ; 3 ; 4 ; 8)
+chromosome 13 : (9 ; 5 ; 1 ; 4)
+chromosome 14 : (9 ; 5 ; 1 ; 4)
+chromosome 15 : (9 ; 4 ; 7 ; 4)
+chromosome 16 : (8 ; 10 ; 3 ; 6)
+chromosome 17 : (6 ; 9 ; 10 ; 3)
+chromosome 18 : (9 ; 5 ; 1 ; 4)
+chromosome 19 : (5 ; 5 ; 7 ; 1)
+chromosome 20 : (4 ; 7 ; 8 ; 8)
+chromosome 21 : (8 ; 5 ; 3 ; 5)
+chromosome 22 : (9 ; 5 ; 1 ; 4)
+chromosome 23 : (8 ; 3 ; 4 ; 8)
+chromosome 24 : (6 ; 3 ; 4 ; 4)
+chromosome 25 : (6 ; 3 ; 4 ; 4)
+chromosome 26 : (8 ; 9 ; 7 ; 9)
+chromosome 27 : (7 ; 8 ; 6 ; 6)
+chromosome 28 : (9 ; 5 ; 1 ; 4)
+chromosome 29 : (9 ; 5 ; 1 ; 4)
+chromosome 30 : (8 ; 9 ; 7 ; 9)
+chromosome 31 : (7 ; 1 ; 7 ; 7)
+chromosome 32 : (9 ; 4 ; 7 ; 4)
+chromosome 33 : (9 ; 5 ; 1 ; 4)
+chromosome 34 : (6 ; 3 ; 4 ; 4)
+chromosome 35 : (6 ; 9 ; 10 ; 3)
+chromosome 36 : (9 ; 5 ; 1 ; 4)
+chromosome 37 : (1 ; 10 ; 2 ; 2)
+chromosome 38 : (7 ; 1 ; 7 ; 7)
+chromosome 39 : (1 ; 6 ; 9 ; 9)
+chromosome 40 : (9 ; 5 ; 1 ; 4)
+chromosome 41 : (8 ; 5 ; 3 ; 5)
+chromosome 42 : (4 ; 7 ; 8 ; 8)
+chromosome 43 : (5 ; 2 ; 5 ; 5)
+chromosome 44 : (6 ; 8 ; 4 ; 1)
+-----------------------------------
+crossover
+chromosomes that will mate : 23
+chromosome 1
+chromosome 30
+chromosome 22
+chromosome 37
+chromosome 18
+chromosome 2
+chromosome 5
+chromosome 9
+chromosome 21
+chromosome 44
+chromosome 27
+chromosome 4
+chromosome 32
+chromosome 17
+chromosome 20
+chromosome 19
+chromosome 43
+chromosome 14
+chromosome 10
+chromosome 12
+chromosome 16
+chromosome 3
+chromosome 41
+crossover point : 0  -- swapping genes 0 to 3 from chromosome 1 and chromosome 30
+
+before : chromosome 1 : (1 ; 3 ; 1 ; 7) -- chromosome 30 : (8 ; 9 ; 7 ; 9)
+after  : chromosome 1 : (8 ; 9 ; 7 ; 9) -- chromosome 30 : (1 ; 3 ; 1 ; 7)
+
+crossover point : 1  -- swapping genes 1 to 3 from chromosome 30 and chromosome 22
+
+before : chromosome 30 : (1 ; 3 ; 1 ; 7) -- chromosome 22 : (9 ; 5 ; 1 ; 4)
+after  : chromosome 30 : (1 ; 5 ; 1 ; 4) -- chromosome 22 : (9 ; 3 ; 1 ; 7)
+
+crossover point : 3  -- swapping genes 3 to 3 from chromosome 22 and chromosome 37
+
+before : chromosome 22 : (9 ; 3 ; 1 ; 7) -- chromosome 37 : (1 ; 10 ; 2 ; 2)
+after  : chromosome 22 : (9 ; 3 ; 1 ; 2) -- chromosome 37 : (1 ; 10 ; 2 ; 7)
+
+crossover point : 2  -- swapping genes 2 to 3 from chromosome 37 and chromosome 18
+
+before : chromosome 37 : (1 ; 10 ; 2 ; 7) -- chromosome 18 : (9 ; 5 ; 1 ; 4)
+after  : chromosome 37 : (1 ; 10 ; 1 ; 4) -- chromosome 18 : (9 ; 5 ; 2 ; 7)
+
+crossover point : 3  -- swapping genes 3 to 3 from chromosome 18 and chromosome 2
+
+before : chromosome 18 : (9 ; 5 ; 2 ; 7) -- chromosome 2 : (10 ; 1 ; 2 ; 7)
+after  : chromosome 18 : (9 ; 5 ; 2 ; 7) -- chromosome 2 : (10 ; 1 ; 2 ; 7)
+
+crossover point : 0  -- swapping genes 0 to 3 from chromosome 2 and chromosome 5
+
+before : chromosome 2 : (10 ; 1 ; 2 ; 7) -- chromosome 5 : (9 ; 4 ; 7 ; 4)
+after  : chromosome 2 : (9 ; 4 ; 7 ; 4) -- chromosome 5 : (10 ; 1 ; 2 ; 7)
+
+crossover point : 0  -- swapping genes 0 to 3 from chromosome 5 and chromosome 9
+
+before : chromosome 5 : (10 ; 1 ; 2 ; 7) -- chromosome 9 : (1 ; 6 ; 9 ; 9)
+after  : chromosome 5 : (1 ; 6 ; 9 ; 9) -- chromosome 9 : (10 ; 1 ; 2 ; 7)
+
+crossover point : 3  -- swapping genes 3 to 3 from chromosome 9 and chromosome 21
+
+before : chromosome 9 : (10 ; 1 ; 2 ; 7) -- chromosome 21 : (8 ; 5 ; 3 ; 5)
+after  : chromosome 9 : (10 ; 1 ; 2 ; 5) -- chromosome 21 : (8 ; 5 ; 3 ; 7)
+
+crossover point : 0  -- swapping genes 0 to 3 from chromosome 21 and chromosome 44
+
+before : chromosome 21 : (8 ; 5 ; 3 ; 7) -- chromosome 44 : (6 ; 8 ; 4 ; 1)
+after  : chromosome 21 : (6 ; 8 ; 4 ; 1) -- chromosome 44 : (8 ; 5 ; 3 ; 7)
+
+crossover point : 1  -- swapping genes 1 to 3 from chromosome 44 and chromosome 27
+
+before : chromosome 44 : (8 ; 5 ; 3 ; 7) -- chromosome 27 : (7 ; 8 ; 6 ; 6)
+after  : chromosome 44 : (8 ; 8 ; 6 ; 6) -- chromosome 27 : (7 ; 5 ; 3 ; 7)
+
+crossover point : 3  -- swapping genes 3 to 3 from chromosome 27 and chromosome 4
+
+before : chromosome 27 : (7 ; 5 ; 3 ; 7) -- chromosome 4 : (5 ; 6 ; 9 ; 6)
+after  : chromosome 27 : (7 ; 5 ; 3 ; 6) -- chromosome 4 : (5 ; 6 ; 9 ; 7)
+
+crossover point : 2  -- swapping genes 2 to 3 from chromosome 4 and chromosome 32
+
+before : chromosome 4 : (5 ; 6 ; 9 ; 7) -- chromosome 32 : (9 ; 4 ; 7 ; 4)
+after  : chromosome 4 : (5 ; 6 ; 7 ; 4) -- chromosome 32 : (9 ; 4 ; 9 ; 7)
+
+crossover point : 2  -- swapping genes 2 to 3 from chromosome 32 and chromosome 17
+
+before : chromosome 32 : (9 ; 4 ; 9 ; 7) -- chromosome 17 : (6 ; 9 ; 10 ; 3)
+after  : chromosome 32 : (9 ; 4 ; 10 ; 3) -- chromosome 17 : (6 ; 9 ; 9 ; 7)
+
+crossover point : 1  -- swapping genes 1 to 3 from chromosome 17 and chromosome 20
+
+before : chromosome 17 : (6 ; 9 ; 9 ; 7) -- chromosome 20 : (4 ; 7 ; 8 ; 8)
+after  : chromosome 17 : (6 ; 7 ; 8 ; 8) -- chromosome 20 : (4 ; 9 ; 9 ; 7)
+
+crossover point : 1  -- swapping genes 1 to 3 from chromosome 20 and chromosome 19
+
+before : chromosome 20 : (4 ; 9 ; 9 ; 7) -- chromosome 19 : (5 ; 5 ; 7 ; 1)
+after  : chromosome 20 : (4 ; 5 ; 7 ; 1) -- chromosome 19 : (5 ; 9 ; 9 ; 7)
+
+crossover point : 3  -- swapping genes 3 to 3 from chromosome 19 and chromosome 43
+
+before : chromosome 19 : (5 ; 9 ; 9 ; 7) -- chromosome 43 : (5 ; 2 ; 5 ; 5)
+after  : chromosome 19 : (5 ; 9 ; 9 ; 5) -- chromosome 43 : (5 ; 2 ; 5 ; 7)
+
+crossover point : 3  -- swapping genes 3 to 3 from chromosome 43 and chromosome 14
+
+before : chromosome 43 : (5 ; 2 ; 5 ; 7) -- chromosome 14 : (9 ; 5 ; 1 ; 4)
+after  : chromosome 43 : (5 ; 2 ; 5 ; 4) -- chromosome 14 : (9 ; 5 ; 1 ; 7)
+
+crossover point : 1  -- swapping genes 1 to 3 from chromosome 14 and chromosome 10
+
+before : chromosome 14 : (9 ; 5 ; 1 ; 7) -- chromosome 10 : (1 ; 6 ; 9 ; 9)
+after  : chromosome 14 : (9 ; 6 ; 9 ; 9) -- chromosome 10 : (1 ; 5 ; 1 ; 7)
+
+crossover point : 3  -- swapping genes 3 to 3 from chromosome 10 and chromosome 12
+
+before : chromosome 10 : (1 ; 5 ; 1 ; 7) -- chromosome 12 : (8 ; 3 ; 4 ; 8)
+after  : chromosome 10 : (1 ; 5 ; 1 ; 8) -- chromosome 12 : (8 ; 3 ; 4 ; 7)
+
+crossover point : 0  -- swapping genes 0 to 3 from chromosome 12 and chromosome 16
+
+before : chromosome 12 : (8 ; 3 ; 4 ; 7) -- chromosome 16 : (8 ; 10 ; 3 ; 6)
+after  : chromosome 12 : (8 ; 10 ; 3 ; 6) -- chromosome 16 : (8 ; 3 ; 4 ; 7)
+
+crossover point : 2  -- swapping genes 2 to 3 from chromosome 16 and chromosome 3
+
+before : chromosome 16 : (8 ; 3 ; 4 ; 7) -- chromosome 3 : (8 ; 9 ; 7 ; 9)
+after  : chromosome 16 : (8 ; 3 ; 7 ; 9) -- chromosome 3 : (8 ; 9 ; 4 ; 7)
+
+crossover point : 3  -- swapping genes 3 to 3 from chromosome 3 and chromosome 41
+
+before : chromosome 3 : (8 ; 9 ; 4 ; 7) -- chromosome 41 : (8 ; 5 ; 3 ; 5)
+after  : chromosome 3 : (8 ; 9 ; 4 ; 5) -- chromosome 41 : (8 ; 5 ; 3 ; 7)
+
+crossover point : 3  -- swapping genes 3 to 3 from chromosome 41 and chromosome 1
+
+before : chromosome 41 : (8 ; 5 ; 3 ; 7) -- chromosome 1 : (8 ; 9 ; 7 ; 9)
+after  : chromosome 41 : (8 ; 5 ; 3 ; 9) -- chromosome 1 : (8 ; 9 ; 7 ; 7)
+
+chromosome 0 : (8 ; 9 ; 8 ; 10)
+chromosome 1 : (8 ; 9 ; 7 ; 7)
+chromosome 2 : (9 ; 4 ; 7 ; 4)
+chromosome 3 : (8 ; 9 ; 4 ; 5)
+chromosome 4 : (5 ; 6 ; 7 ; 4)
+chromosome 5 : (1 ; 6 ; 9 ; 9)
+chromosome 6 : (1 ; 6 ; 9 ; 9)
+chromosome 7 : (3 ; 7 ; 4 ; 7)
+chromosome 8 : (8 ; 5 ; 3 ; 5)
+chromosome 9 : (10 ; 1 ; 2 ; 5)
+chromosome 10 : (1 ; 5 ; 1 ; 8)
+chromosome 11 : (8 ; 10 ; 3 ; 6)
+chromosome 12 : (8 ; 10 ; 3 ; 6)
+chromosome 13 : (9 ; 5 ; 1 ; 4)
+chromosome 14 : (9 ; 6 ; 9 ; 9)
+chromosome 15 : (9 ; 4 ; 7 ; 4)
+chromosome 16 : (8 ; 3 ; 7 ; 9)
+chromosome 17 : (6 ; 7 ; 8 ; 8)
+chromosome 18 : (9 ; 5 ; 2 ; 7)
+chromosome 19 : (5 ; 9 ; 9 ; 5)
+chromosome 20 : (4 ; 5 ; 7 ; 1)
+chromosome 21 : (6 ; 8 ; 4 ; 1)
+chromosome 22 : (9 ; 3 ; 1 ; 2)
+chromosome 23 : (8 ; 3 ; 4 ; 8)
+chromosome 24 : (6 ; 3 ; 4 ; 4)
+chromosome 25 : (6 ; 3 ; 4 ; 4)
+chromosome 26 : (8 ; 9 ; 7 ; 9)
+chromosome 27 : (7 ; 5 ; 3 ; 6)
+chromosome 28 : (9 ; 5 ; 1 ; 4)
+chromosome 29 : (9 ; 5 ; 1 ; 4)
+chromosome 30 : (1 ; 5 ; 1 ; 4)
+chromosome 31 : (7 ; 1 ; 7 ; 7)
+chromosome 32 : (9 ; 4 ; 10 ; 3)
+chromosome 33 : (9 ; 5 ; 1 ; 4)
+chromosome 34 : (6 ; 3 ; 4 ; 4)
+chromosome 35 : (6 ; 9 ; 10 ; 3)
+chromosome 36 : (9 ; 5 ; 1 ; 4)
+chromosome 37 : (1 ; 10 ; 1 ; 4)
+chromosome 38 : (7 ; 1 ; 7 ; 7)
+chromosome 39 : (1 ; 6 ; 9 ; 9)
+chromosome 40 : (9 ; 5 ; 1 ; 4)
+chromosome 41 : (8 ; 5 ; 3 ; 9)
+chromosome 42 : (4 ; 7 ; 8 ; 8)
+chromosome 43 : (5 ; 2 ; 5 ; 4)
+chromosome 44 : (8 ; 8 ; 6 ; 6)
+-----------------------------------
+mutation
+
+number of mutations : 18
+genes that mutate : 
+ 79  from: chromosome 34 gene 1 : [3] to  : [3]
+ 134  from: chromosome 44 gene 2 : [6] to  : [7]
+ 7  from: chromosome 7 gene 0 : [3] to  : [6]
+ 174  from: chromosome 39 gene 3 : [9] to  : [5]
+ 48  from: chromosome 3 gene 1 : [9] to  : [2]
+ 40  from: chromosome 40 gene 0 : [9] to  : [3]
+ 27  from: chromosome 27 gene 0 : [7] to  : [4]
+ 51  from: chromosome 6 gene 1 : [6] to  : [1]
+ 172  from: chromosome 37 gene 3 : [4] to  : [8]
+ 92  from: chromosome 2 gene 2 : [7] to  : [2]
+ 58  from: chromosome 13 gene 1 : [5] to  : [8]
+ 2  from: chromosome 2 gene 0 : [9] to  : [5]
+ 122  from: chromosome 32 gene 2 : [10] to  : [3]
+ 19  from: chromosome 19 gene 0 : [5] to  : [5]
+ 110  from: chromosome 20 gene 2 : [7] to  : [4]
+ 10  from: chromosome 10 gene 0 : [1] to  : [8]
+ 136  from: chromosome 1 gene 3 : [7] to  : [3]
+ 5  from: chromosome 5 gene 0 : [1] to  : [4]
+chromosome 0 : (8 ; 9 ; 8 ; 10)
+chromosome 1 : (8 ; 9 ; 7 ; 3)
+chromosome 2 : (5 ; 4 ; 2 ; 4)
+chromosome 3 : (8 ; 2 ; 4 ; 5)
+chromosome 4 : (5 ; 6 ; 7 ; 4)
+chromosome 5 : (4 ; 6 ; 9 ; 9)
+chromosome 6 : (1 ; 1 ; 9 ; 9)
+chromosome 7 : (6 ; 7 ; 4 ; 7)
+chromosome 8 : (8 ; 5 ; 3 ; 5)
+chromosome 9 : (10 ; 1 ; 2 ; 5)
+chromosome 10 : (8 ; 5 ; 1 ; 8)
+chromosome 11 : (8 ; 10 ; 3 ; 6)
+chromosome 12 : (8 ; 10 ; 3 ; 6)
+chromosome 13 : (9 ; 8 ; 1 ; 4)
+chromosome 14 : (9 ; 6 ; 9 ; 9)
+chromosome 15 : (9 ; 4 ; 7 ; 4)
+chromosome 16 : (8 ; 3 ; 7 ; 9)
+chromosome 17 : (6 ; 7 ; 8 ; 8)
+chromosome 18 : (9 ; 5 ; 2 ; 7)
+chromosome 19 : (5 ; 9 ; 9 ; 5)
+chromosome 20 : (4 ; 5 ; 4 ; 1)
+chromosome 21 : (6 ; 8 ; 4 ; 1)
+chromosome 22 : (9 ; 3 ; 1 ; 2)
+chromosome 23 : (8 ; 3 ; 4 ; 8)
+chromosome 24 : (6 ; 3 ; 4 ; 4)
+chromosome 25 : (6 ; 3 ; 4 ; 4)
+chromosome 26 : (8 ; 9 ; 7 ; 9)
+chromosome 27 : (4 ; 5 ; 3 ; 6)
+chromosome 28 : (9 ; 5 ; 1 ; 4)
+chromosome 29 : (9 ; 5 ; 1 ; 4)
+chromosome 30 : (1 ; 5 ; 1 ; 4)
+chromosome 31 : (7 ; 1 ; 7 ; 7)
+chromosome 32 : (9 ; 4 ; 3 ; 3)
+chromosome 33 : (9 ; 5 ; 1 ; 4)
+chromosome 34 : (6 ; 3 ; 4 ; 4)
+chromosome 35 : (6 ; 9 ; 10 ; 3)
+chromosome 36 : (9 ; 5 ; 1 ; 4)
+chromosome 37 : (1 ; 10 ; 1 ; 8)
+chromosome 38 : (7 ; 1 ; 7 ; 7)
+chromosome 39 : (1 ; 6 ; 9 ; 5)
+chromosome 40 : (3 ; 5 ; 1 ; 4)
+chromosome 41 : (8 ; 5 ; 3 ; 9)
+chromosome 42 : (4 ; 7 ; 8 ; 8)
+chromosome 43 : (5 ; 2 ; 5 ; 4)
+chromosome 44 : (8 ; 8 ; 7 ; 6)
+
+-----------------------------------
+new generation:
+GENERATION 1
+chromosome 0 : (8 ; 9 ; 8 ; 10)
+chromosome 1 : (8 ; 9 ; 7 ; 3)
+chromosome 2 : (5 ; 4 ; 2 ; 4)
+chromosome 3 : (8 ; 2 ; 4 ; 5)
+chromosome 4 : (5 ; 6 ; 7 ; 4)
+chromosome 5 : (4 ; 6 ; 9 ; 9)
+chromosome 6 : (1 ; 1 ; 9 ; 9)
+chromosome 7 : (6 ; 7 ; 4 ; 7)
+chromosome 8 : (8 ; 5 ; 3 ; 5)
+chromosome 9 : (10 ; 1 ; 2 ; 5)
+chromosome 10 : (8 ; 5 ; 1 ; 8)
+chromosome 11 : (8 ; 10 ; 3 ; 6)
+chromosome 12 : (8 ; 10 ; 3 ; 6)
+chromosome 13 : (9 ; 8 ; 1 ; 4)
+chromosome 14 : (9 ; 6 ; 9 ; 9)
+chromosome 15 : (9 ; 4 ; 7 ; 4)
+chromosome 16 : (8 ; 3 ; 7 ; 9)
+chromosome 17 : (6 ; 7 ; 8 ; 8)
+chromosome 18 : (9 ; 5 ; 2 ; 7)
+chromosome 19 : (5 ; 9 ; 9 ; 5)
+chromosome 20 : (4 ; 5 ; 4 ; 1)
+chromosome 21 : (6 ; 8 ; 4 ; 1)
+chromosome 22 : (9 ; 3 ; 1 ; 2)
+chromosome 23 : (8 ; 3 ; 4 ; 8)
+chromosome 24 : (6 ; 3 ; 4 ; 4)
+chromosome 25 : (6 ; 3 ; 4 ; 4)
+chromosome 26 : (8 ; 9 ; 7 ; 9)
+chromosome 27 : (4 ; 5 ; 3 ; 6)
+chromosome 28 : (9 ; 5 ; 1 ; 4)
+chromosome 29 : (9 ; 5 ; 1 ; 4)
+chromosome 30 : (1 ; 5 ; 1 ; 4)
+chromosome 31 : (7 ; 1 ; 7 ; 7)
+chromosome 32 : (9 ; 4 ; 3 ; 3)
+chromosome 33 : (9 ; 5 ; 1 ; 4)
+chromosome 34 : (6 ; 3 ; 4 ; 4)
+chromosome 35 : (6 ; 9 ; 10 ; 3)
+chromosome 36 : (9 ; 5 ; 1 ; 4)
+chromosome 37 : (1 ; 10 ; 1 ; 8)
+chromosome 38 : (7 ; 1 ; 7 ; 7)
+chromosome 39 : (1 ; 6 ; 9 ; 5)
+chromosome 40 : (3 ; 5 ; 1 ; 4)
+chromosome 41 : (8 ; 5 ; 3 ; 9)
+chromosome 42 : (4 ; 7 ; 8 ; 8)
+chromosome 43 : (5 ; 2 ; 5 ; 4)
+chromosome 44 : (8 ; 8 ; 7 ; 6)
+-----------------------------------
+BEST SOLUTION:
+chromosome 20 : (4 ; 5 ; 4 ; 1) after 2 iterations.
+
+a + 2b + 3c +4d = 4 +2*5 + 3*4 + 4*1 = 30
