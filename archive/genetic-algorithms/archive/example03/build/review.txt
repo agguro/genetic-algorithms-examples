@@ -1,0 +1,5 @@
+This algorithm performs better than example 02 in that respect that we only need 1 gene to get both zero points of
+a*x*x+b*x+c=0
+The number of chromosomes is arbitrarely chosen.
+A check on the values of x1 can arrange the output so that only distinct values are displayed. (which should be 2 different or 2 sae roots)
+There is still no check if real roots exists.  That's for another example where I will deal with the complex number space. 

@@ -1,0 +1,53 @@
+Chromosome 0: 29,9,18,19: fo = 147 , fi = 0.00675676
+Chromosome 1: 4,24,22,7: fo = 116 , fi = 0.00854701
+Chromosome 2: 21,28,28,2: fo = 139 , fi = 0.00714286
+Chromosome 3: 27,2,30,7: fo = 119 , fi = 0.00833333
+Chromosome 4: 4,20,5,16: fo = 93 , fi = 0.0106383
+Chromosome 5: 18,3,5,17: fo = 77 , fi = 0.0128205
+Chromosome 6: 16,1,27,12: fo = 117 , fi = 0.00847458
+Chromosome 7: 29,11,27,19: fo = 178 , fi = 0.00558659
+Chromosome 8: 19,15,29,15: fo = 166 , fi = 0.00598802
+Chromosome 9: 8,20,13,28: fo = 169 , fi = 0.00588235
+total fitness: 0.0801703
+Chromosome 0 probability : 0.08428
+Chromosome 1 probability : 0.106611
+Chromosome 2 probability : 0.089096
+Chromosome 3 probability : 0.103945
+Chromosome 4 probability : 0.132696
+Chromosome 5 probability : 0.159916
+Chromosome 6 probability : 0.105707
+Chromosome 7 probability : 0.0696841
+Chromosome 8 probability : 0.0746913
+Chromosome 9 probability : 0.0733732
+Chromosome 0 cumulative probability : 0.08428
+Chromosome 1 cumulative probability : 0.190891
+Chromosome 2 cumulative probability : 0.279987
+Chromosome 3 cumulative probability : 0.383932
+Chromosome 4 cumulative probability : 0.516628
+Chromosome 5 cumulative probability : 0.676544
+Chromosome 6 cumulative probability : 0.782251
+Chromosome 7 cumulative probability : 0.851936
+Chromosome 8 cumulative probability : 0.926627
+Chromosome 9 cumulative probability : 1
+Roulette wheel
+chromosome 0 replaced by chromosome 7
+0:0.920874 - 0.08428
+chromosome 1 replaced by chromosome 4
+1:0.631148 - 0.190891
+chromosome 2 replaced by chromosome 0
+2:0.00715285 - 0.279987
+chromosome 3 replaced by chromosome 2
+3:0.312675 - 0.383932
+chromosome 4 replaced by chromosome 1
+4:0.23762 - 0.516628
+chromosome 5 replaced by chromosome 3
+5:0.3874 - 0.676544
+chromosome 6 replaced by chromosome 7
+6:0.867607 - 0.782251
+chromosome 7 replaced by chromosome 4
+7:0.521779 - 0.851936
+chromosome 8 replaced by chromosome 6
+8:0.815528 - 0.926627
+chromosome 9 replaced by chromosome 3
+9:0.498253 - 1
+New population:

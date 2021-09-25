@@ -1,0 +1,39 @@
+  a(z1+z2i)²+b(z1+z2i)+c=0
++ a(z3+z4i)²+b(z3+z4i)+c=0
+---------------------------
+a(z1+z2i)² + b(z1+z2i) + c + a(z3+z4i)² + b(z3+z4i) + c = 0
+a(z1+z2i)² + a(z3+z4i)² + b(z1+z2i) + b(z3+z4i) + c + c = 0
+a[(z1+z2i)² + (z3+z4i)²] + b[(z1+z2i) + (z3+z4i)] + 2c = 0
+
+(z1+z2i)² = z1²+2z1z2i+z2²i² = z1² - z2² + 2z1z2i
+(z3+z4i)² = z3²+2z3z4i+z4²i² = z3² - z4² + 2z3z4i
+
+a[z1² - z2² + 2z1z2i + z3² - z4² + 2z3z4i] + b[z1 + z3 + z2i + z4i] + 2c = 0
+a[z1² - z2² + z3² - z4² + 2z1z2i + 2z3z4i] + b[z1 + z3 + z2i + z4i] + 2c = 0
+
+ALGEMEEN
+a[z1² - z2² + z3² - z4²] + b[z1 + z3] + 2c + (2a[z1z2i + 2z3z4])i + b[(z2 + z4)i] = 0
+
+reële x1 <> x2 -> imaginair deel is 0   D = b² - 4ac > 0
+
+a[x1² + x2²] + b[x1 + x2] + 2c = 0  --> genetisch algoritme
+
+reële x1 = x2 --> imaginair deel is nul en z1 = z3 = x1 = x2    D = b² - 4ac = 0
+
+2a.x1² + 2bx1 + 2c = a.x1² + bx1 + c = 0  --> genetisch algoritme
+
+imaginair toegevoegd complex   D = b² - 4ac < 0
+z1-z2i = z3+z4i
+z3 = z1
+z4 = -z2
+
+a[z1² - z2² + z1² - z2²] + b[z1 + z1] + 2c + (2a[z1z2 - 2z1z2])i + b[(z2 - z2)i] = 0
+                                                 ------------         -------   ------> 0
+2a(z1²-z2²) + 2bz1 + 2c = 0    ----> genbetisch algoritme
+
+twee verschillende imaginaire getallen
+a[z1² - z2² + z3² - z4²] + b[z1 + z3] + 2c + (2a[z1z2i + 2z3z4])i + b[(z2 + z4)i] = 0
+
+a[z1² - z2² + z3² - z4²] + b[z1 + z3] + 2c = -((2a[z1z2i + 2z3z4])i + b[(z2 + z4)i]) = 0
+
+a[z1² - z2² + z3² - z4²] + b[z1 + z3] + 2c = -(2a(z1z2+z3z4)+b(z2+z4)) = 0
