@@ -70,24 +70,24 @@ int main()
 {
     srand(time(0));
 
-    cout << "unsigned short int -----" << endl;
+    cout << "unsigned short int" << endl;
     for(unsigned short int i = 0;i < 10;i++){
-    unsigned short int min = 0;
+        unsigned short int min = 0;
         unsigned short int max = 25;
 
         cout << getRandom<unsigned short int>(min,max) << endl;
     }
     cout << endl;
 
-    cout << "signed short int -----" << endl;
+    cout << "signed short int" << endl;
     for(signed short int i = 0;i < 10;i++){
         signed short int min1 = -5365;
         signed short int max1= 8958;
-        cout << getRandom<short int>(min1,max1) << endl;
+        cout << getRandom<signed short int>(min1,max1) << endl;
     }
     cout << endl;
 
-    cout << "unsigned int -----" << endl;
+    cout << "unsigned int" << endl;
     for(unsigned int i = 0;i < 10;i++){
         unsigned int min2 = 0;
         unsigned int max2 = UINT_MAX;
@@ -95,7 +95,7 @@ int main()
     }
     cout << endl;
 
-    cout << "signed int -----" << endl;
+    cout << "signed int" << endl;
     for(signed int i = 0;i < 10;i++){
         signed int min3 = 785468;
         signed int max3 = 10256325;
@@ -103,15 +103,15 @@ int main()
     }
     cout << endl;
 
-    cout << "unsigned long -----" << endl;
+    cout << "unsigned long" << endl;
     for(signed int i = 0;i < 10;i++){
-        unsigned long min4 = -125452325;
+        unsigned long min4 = 125452325;
         unsigned long max4 = 254523258;
-        cout << getRandom<signed long>(min4,max4) << endl;
+        cout << getRandom<unsigned long>(min4,max4) << endl;
     }
     cout << endl;
 
-    cout << "signed long -----" << endl;
+    cout << "signed long" << endl;
     for(signed int i = 0;i < 10;i++){
         signed long min4 = -125452325;
         signed long max4 = 254523258;
@@ -119,7 +119,7 @@ int main()
     }
     cout << endl;
 
-    cout << "unsigned long long -----" << endl;
+    cout << "unsigned long long" << endl;
     for(signed int i = 0;i < 10;i++){
         unsigned long long min5 = 0;
         unsigned long long max5 = 254523258;
@@ -127,7 +127,7 @@ int main()
     }
     cout << endl;
 
-    cout << "signed long long -----" << endl;
+    cout << "signed long long" << endl;
     for(signed int i = 0;i < 10;i++){
         signed long long min6 = -125452325;
         signed long long max6 = 254523258;
@@ -135,7 +135,7 @@ int main()
     }
     cout << endl;
 
-    cout << "float -----" << endl;
+    cout << "float" << endl;
     for(signed int i = 0;i < 10;i++){
         float min7 = -4523.23f;
         float max7 = 2523.258f;
@@ -143,7 +143,7 @@ int main()
     }
     cout << endl;
 
-    cout << "double -----" << endl;
+    cout << "double" << endl;
     for(unsigned int i = 0;i < 10;i++){
         cout.precision(17);
         double min8 = -2562.12542;
@@ -152,12 +152,22 @@ int main()
     }
     cout << endl;
 
-    cout << "long double-----" << endl;
+    cout << "long double" << endl;
     for(unsigned int i = 0;i < 10;i++){
         cout.precision(34);
         long double min9 = -85665856.23652;
         long double max9 = 95765656.28659;
         cout << getRandom<long double>(min9,max9) << endl;
+    }
+    cout << endl;
+
+    cout << "random char " << endl;
+    for(unsigned int i = 0;i < 10; i++){
+        unsigned short int min = 0;
+        unsigned short int max = 25;
+
+        unsigned short r = getRandom<unsigned short int>(min,max) + int('A');
+        cout << (char)r << " ";
     }
     cout << endl;
 
