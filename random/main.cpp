@@ -12,6 +12,7 @@
 #include <math.h>
 #include <limits.h>
 #include <string>
+#include <typeinfo>
 
 using namespace std;
 
@@ -68,18 +69,10 @@ T getRandom (T minimum, T maximum)
 
 int main()
 {
-    srand(time(0));
 
-    cout << "unsigned short int" << endl;
-    for(unsigned short int i = 0;i < 10;i++){
-        unsigned short int min = 0;
-        unsigned short int max = 25;
+    srand(time(NULL));
 
-        cout << getRandom<unsigned short int>(min,max) << endl;
-    }
-    cout << endl;
-
-    cout << "signed short int" << endl;
+    cout << "signed short int:" << endl;
     for(signed short int i = 0;i < 10;i++){
         signed short int min1 = -5365;
         signed short int max1= 8958;
@@ -87,7 +80,7 @@ int main()
     }
     cout << endl;
 
-    cout << "unsigned int" << endl;
+    cout << "unsigned int:" << endl;
     for(unsigned int i = 0;i < 10;i++){
         unsigned int min2 = 0;
         unsigned int max2 = UINT_MAX;
@@ -95,7 +88,7 @@ int main()
     }
     cout << endl;
 
-    cout << "signed int" << endl;
+    cout << "signed int:" << endl;
     for(signed int i = 0;i < 10;i++){
         signed int min3 = 785468;
         signed int max3 = 10256325;
@@ -103,7 +96,7 @@ int main()
     }
     cout << endl;
 
-    cout << "unsigned long" << endl;
+    cout << "unsigned long:" << endl;
     for(signed int i = 0;i < 10;i++){
         unsigned long min4 = 125452325;
         unsigned long max4 = 254523258;
