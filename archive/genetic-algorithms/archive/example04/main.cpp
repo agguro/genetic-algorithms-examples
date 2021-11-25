@@ -1,5 +1,5 @@
-// genetic algorithm to solve a*x*x+b*x+c=0
-
+// genetic algorithm to solve a*x*x*x+b*x*x+c*x+d=0
+// in this example : 5x³-10x²-25x+30 = 0
 
 #include <gene.h>
 #include <chromosome.h>
