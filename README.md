@@ -9,3 +9,12 @@ In the meanwhile.....
     2: equation_example_01 : 6 variable equation example.
     3: quadratic_equation_example. : problem to deal with: Finding both roots
     4: qubic_equation_example. : problem to deal with: eliminate same results from all the results, the algorithm however do find the 3 roots (most of the time)
+
+
+Build of the examples.
+In each consecutive directory:
+    
+    mkdir build
+    cd build
+    qmake ../
+    make
